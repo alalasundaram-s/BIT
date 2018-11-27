@@ -1,0 +1,41 @@
+{
+    "vehicles": [
+        {
+            "vehicle": {
+                "id": "123",
+                "number": "Trcuk 543",
+                "year": "2007",
+                "make": "PETERBILT",
+                "model": "987",
+                "vin": "9812AKSDJN123",
+                "current_location": {
+                    "lat": "44.140891",
+                    "lon": "-88.295156",
+                    "located_at": "2018-05-25 00:12:30",
+                    "odometer": null
+                },
+                "current_driver": {
+                    "id": "123",
+                    "first_name": "John",
+                    "last_name": "Smith",
+                    "emails": [
+                        null
+                    ],
+                    "roles": [
+                        "Administrator",
+                        "Driver"
+                    ],
+                    "statuses": [
+                        false,
+                        false
+                    ]
+                }
+            }
+        }
+    ],
+    "pagination": {
+        "per_page": 5,
+        "page_no": 1,
+        "total": 1
+    }
+}
